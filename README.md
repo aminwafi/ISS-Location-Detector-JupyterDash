@@ -1,7 +1,7 @@
 # ISS Location Detector with Jupyter Dash
 
 ## Dependencies
-- Anaconda Package Manager
+- Anaconda Distribution
 - Jupyter
 - Pandas
 - Dash
