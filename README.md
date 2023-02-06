@@ -2,14 +2,14 @@
 
 ## DEPENDENCIES
 - Anaconda Package Manager
-- JUPYTER
-- PANDAS
-- DASH
-- DASH BOOTSTRAP COMPONENTS
-- JUPYTER DASH
-- PLOTLY
-- PLOTLY EXPRESS
-- GEODASH
+- Jupyter
+- Pandas
+- Dash
+- Dash Bootstrap Components
+- Jupyter Dash
+- Plotly
+- Plotly Express
+- Geodash
         
 ## Steps to Run
 1. Install the required dependencies on anaconda dev environment
