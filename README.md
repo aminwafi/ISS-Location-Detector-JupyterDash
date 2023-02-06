@@ -12,7 +12,7 @@
 - Geodash
         
 ## Steps to Run
-1. Install the required dependencies on anaconda dev environment
+1. Install the required dependencies on anaconda virtual environment
 2. Run jupyter notebook
 3. 1st cell and 2nd cell: Importing required dependencies into the code
 4. 12th cell: Execution of ISS Api function
